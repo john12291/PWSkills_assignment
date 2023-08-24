@@ -1,3 +1,5 @@
+# Declare two variables, `x` and `y`, and assign them integer values. Swap the
+values of these variables without using any temporary variable.
 >>> x=10
 >>> y=20
 >>> print(f"Before swapping: x = {x}, y = {y}")
@@ -6,3 +8,6 @@ Before swapping: x = 10, y = 20
 >>> y = x
 >>> print (f"After swapping: x = {x}, y = {y}")
 After swapping: x = 20, y = 20
+
+#Create a program that calculates the area of a rectangle. Take the length and
+width as inputs from the user and store them in variables. Calculate and display the area.
