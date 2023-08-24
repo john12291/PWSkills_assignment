@@ -11,3 +11,8 @@ After swapping: x = 20, y = 20
 
 #Create a program that calculates the area of a rectangle. Take the length and
 width as inputs from the user and store them in variables. Calculate and display the area.
+celsius = 10
+>>> fahrenheit = (celsius * 9/5) +32 
+>>> print (f"(fahrenheit: z = {fahrenheit}")
+(fahrenheit: z = 50.0
+
